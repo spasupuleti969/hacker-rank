@@ -3,6 +3,41 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Sudharsan/My Test/account/src/main/java/com/eebank/account/controller/AccountController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Sudharsan/My Test/account/src/main/java/com/eebank/account/controller/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/solutions/AngryProfessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/solutions/PlusMinusSolution.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/solutions/StairCaseProblem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/solutions/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/solutions/VeryLongSum.java">
           <value>
             <set />
